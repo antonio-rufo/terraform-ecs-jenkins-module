@@ -1,0 +1,8 @@
+# Terraform
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock
+.terraform/
+.DS_Store
+.terraform.*
+*.pem
